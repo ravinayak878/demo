@@ -1,6 +1,9 @@
 This is first commit file in master
+<<<<<<< HEAD
 
 this is future2 in f2
 
 This is future1  commit in f1
 
+=======
+>>>>>>> parent of 68ae047 (this is future1 in f1)
