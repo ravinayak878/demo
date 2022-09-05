@@ -1,6 +1,2 @@
 This is first commit file in master
-
-this is future2 in f2
-
 This is future1  commit in f1
-
